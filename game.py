@@ -23,8 +23,8 @@ while gameVars.player is False:
 		exit()
 
 	# this will be the AI choice -> a random pick from the choices array
-	computer = gameVars.choices[randint(0, 2)]
-
+	if computer == gameVars.choices[randint(0, 2)]:
+		comparisons();
 	# check to see what the user input
 	# Moved to comparisons.py in gameComponents
 

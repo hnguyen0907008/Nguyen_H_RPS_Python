@@ -24,7 +24,7 @@ Built with [Python 3](https://wiki.python.org/moin/BeginnersGuide)
 
 Enjoy!
 
-###Author
+### Author 
 Professor: Trevor
 Hien Nguyen
 
